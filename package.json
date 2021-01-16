@@ -1,0 +1,27 @@
+{
+  "name": "react-ssr-playground",
+  "version": "0.0.1",
+  "description": "A playground for server-side rendering with React",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rosswilson/react-ssr-playground.git"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "nodejs",
+    "rendering",
+    "async",
+    "data-loading"
+  ],
+  "author": "Ross Wilson <me@rosswilson.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosswilson/react-ssr-playground/issues"
+  },
+  "homepage": "https://github.com/rosswilson/react-ssr-playground#readme"
+}
